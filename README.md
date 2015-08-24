@@ -18,5 +18,3 @@ ChangeLog and File Location
 |威穎|時間|記錄|路徑|
 |----|----|----|----|
 ||Example Time|Example note|Example Directory|
-
-testing the change
