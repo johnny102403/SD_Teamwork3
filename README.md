@@ -18,11 +18,3 @@ ChangeLog and File Location
 |威穎|時間|記錄|路徑|
 |----|----|----|----|
 ||Example Time|Example note|Example Directory|
-
-Here's an example:
-
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
