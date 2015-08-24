@@ -11,10 +11,18 @@ ChangeLog and File Location
 |----|----|----|----|
 ||08/24 23:01|修改ReadMe|無|
 
-=============
-彥鈞:
+|彥鈞|時間|記錄|路徑|
+|----|----|----|----|
+||Example Time|Example note|Example Directory|
 
-=============
-威穎:
+|威穎|時間|記錄|路徑|
+|----|----|----|----|
+||Example Time|Example note|Example Directory|
 
-=============
+Here's an example:
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
