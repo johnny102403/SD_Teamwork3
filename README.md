@@ -17,4 +17,4 @@ ChangeLog and File Location
 
 |威穎|時間|記錄|路徑|
 |----|----|----|----|
-||08/26 18:30|上傳migrations|無|
+||08/26 18:30|上傳migrations|~/laravel/database/migrations|
