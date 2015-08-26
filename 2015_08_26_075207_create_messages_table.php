@@ -12,12 +12,12 @@ class CreateMessagesTable extends Migration
      */
     public function up()
     {
-        Schema::create('all_message', function (Blueprint $table) {
-            $table->increments('id');
-			$table->string('name');
-            $table->timestamps('time');
-			$table->string('content');
-        });
+      Schema::create('all_message', function (Blueprint $table) {
+        $table->increments('id');
+		    $table->string('name');
+        $table->string('time');
+		    $table->string('content');
+      });
     }
 
     /**
@@ -27,6 +27,6 @@ class CreateMessagesTable extends Migration
      */
     public function down()
     {
-        Schema::drop('all_messages');
+        Schema::drop('all_message');
     }
 }

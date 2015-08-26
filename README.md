@@ -7,14 +7,16 @@ https://hackpad.com/Service-Desk-Team-HW3-DF7tYGuoFG3
 
 ChangeLog and File Location
 =============
-|威凱|時間|記錄|路徑|
-|----|----|----|----|
-||08/24 23:01|修改ReadMe|無|
+|威凱|時間|記錄|路徑|備註|
+|----|----|----|----|----|
+||08/24 23:01|修改ReadMe|無|無|
+||08/27 00:00|修改ReadMe|無|增加備註欄|
+||08/27 00:00|修改create_messages_table.php|~/laravel/database/migrations|更改time欄位為string格式 更正Schema::drop('all_message');|
 
-|彥鈞|時間|記錄|路徑|
-|----|----|----|----|
-||Example Time|Example note|Example Directory|
+|彥鈞|時間|記錄|路徑|備註|
+|----|----|----|----|----|
+||Example Time|Example note|Example Directory|:)|
 
 |威穎|時間|記錄|路徑|
-|----|----|----|----|
-||08/26 18:30|上傳migrations|~/laravel/database/migrations|
+|----|----|----|----|----|
+||08/26 18:30|上傳migrations|~/laravel/database/migrations|:)|
