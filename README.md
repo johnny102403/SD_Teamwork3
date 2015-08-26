@@ -17,6 +17,6 @@ ChangeLog and File Location
 |----|----|----|----|----|
 ||Example Time|Example note|Example Directory|:)|
 
-|威穎|時間|記錄|路徑|
+|威穎|時間|記錄|路徑|備註|
 |----|----|----|----|----|
 ||08/26 18:30|上傳migrations|~/laravel/database/migrations|:)|
