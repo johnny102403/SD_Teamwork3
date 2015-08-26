@@ -17,4 +17,4 @@ ChangeLog and File Location
 
 |威穎|時間|記錄|路徑|
 |----|----|----|----|
-||Example Time|Example note|Example Directory|
+||08/26 18:30|上傳migrations|無|
