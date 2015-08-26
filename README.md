@@ -1,15 +1,20 @@
 # SD_Teamwork3
-SD_Teamwork3_chatroom
+SD Teamwork3 chatroom laravel project
 
-Hi~It is teamHW3~
-=============
-威凱is in!!!
-彥鈞is in!!!
-威穎is in!!!
-<<<<<<< HEAD
-
-HackPad for hw3
+HackPad for HW3
 =============
 https://hackpad.com/Service-Desk-Team-HW3-DF7tYGuoFG3
-File Location
+
+ChangeLog and File Location
 =============
+|威凱|時間|記錄|路徑|
+|----|----|----|----|
+||08/24 23:01|修改ReadMe|無|
+
+|彥鈞|時間|記錄|路徑|
+|----|----|----|----|
+||Example Time|Example note|Example Directory|
+
+|威穎|時間|記錄|路徑|
+|----|----|----|----|
+||Example Time|Example note|Example Directory|
