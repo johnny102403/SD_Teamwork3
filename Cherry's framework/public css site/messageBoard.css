@@ -1,0 +1,75 @@
+/*public/css/site/messageBoard.css*/
+body {
+    position: relative; 
+}
+.header {
+    background-image: url("public/img/maxresdefault.jpg") ;
+    background-right:20px; 
+    background-size: 100%;
+    color:#fff;
+    height:200px;
+}
+.h{
+    font-size: 550%;
+    font-family: 'Ceviche One', cursive;
+}
+.affix {
+    top:0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+a {
+    font-size: 135%;
+}
+#section1{
+    height:800px;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 30px;
+}
+.message{
+    overflow: auto;
+    padding:15px;
+    height: 350px;
+    width:auto;
+    border: black 2px dashed;
+    margin: 10px;
+    font-size: 150%;
+}
+#content, #sub{
+    font-size: 150%;
+    font-family: 'Roboto Condensed', sans-serif;
+ }
+.btn{
+    margin: 5px;
+    cursor: pointer;
+}
+.allFont{
+    background-color: rgba(255,220,200,0.3);
+    width: 480px;
+    height: auto;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 40px;
+    border-radius: 20px 40px 20px 40px;
+    box-shadow: 1px 1px 4px rgba(120,120,120,0.6);
+}
+.userFont{
+padding: 5px;
+    color: rgba(20,20,120,0.8);
+    background-color: aliceblue;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 1px 1px 2px rgba(120,120,120,0.6);
+}
+.contentFont{
+    color: rgba(20,20,20,0.8);
+    font-size: 105%;
+    margin-left: 50px;
+}
+.timeFont{
+    color: rgba(200,200,200,0.9);
+    margin-left: 330px;
+}

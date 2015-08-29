@@ -1,0 +1,20 @@
+/*public/css/site/setup.css*/
+body {
+    background-color: skyblue;
+    font-family: 'Orbitron', sans-serif;
+    }
+        
+.container {
+    border: #CCFFFF 5px dashed;
+    margin: 48px;
+    padding: 20px;
+    padding-top: 0px;
+    line-height: 30px;
+        }        
+label {
+    font-size: 150%;
+}        
+.user {
+    font-size: 125%;
+    padding-left: 5px;
+}
