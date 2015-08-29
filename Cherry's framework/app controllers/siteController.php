@@ -1,4 +1,4 @@
-<!--app/controllers/siteController.php-->
+<!--app/Http/Controllers/siteController.php-->
 public function index(){
     return View::make('site.index');
 }
