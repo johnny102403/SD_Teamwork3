@@ -16,6 +16,7 @@ ChangeLog and File Location
 |彥鈞|時間|記錄|路徑|備註|
 |----|----|----|----|----|
 ||Example Time|Example note|Example Directory|:)|
+||8/29 13:00|Cherry's framework|路徑已用資料夾分類，且每個檔案的第一行都有注解directory|:)|
 
 |威穎|時間|記錄|路徑|備註|
 |----|----|----|----|----|
