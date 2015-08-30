@@ -1,4 +1,4 @@
-<!--app/controllers/adminController.php-->
+<!--/app/Http/Controllers/adminController.php-->
 public function create(){
     return View::make('admin.create');
 }

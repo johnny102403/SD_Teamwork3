@@ -1,4 +1,4 @@
-<!--app/views/site/layouts/default.blade.php-->
+<!--resources/views/site/layouts/default.blade.php-->
 <!DOCTYPE html>
 <!--login page-->
 <html>
