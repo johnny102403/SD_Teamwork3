@@ -1,0 +1,112 @@
+/*all main sites:index,create,show,edit,destroy.blade.php*/
+
+body {
+  position: relative;
+}
+.header {
+  background-image: url("../img/maxresdefault.jpg");
+  background-right: 20px;
+  background-size: 100%;
+  color: #fff;
+  height: 200px;
+}
+.h {
+  font-size: 550%;
+  font-family: 'Ceviche One', cursive;
+}
+.affix {
+  top: 0;
+  width: 100%;
+  z-index: 9999 !important;
+}
+.navbar {
+  margin-bottom: 0px;
+}
+a {
+  font-size: 135%;
+}
+#section1 {
+  height: 800px;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 30px;
+}
+.message {
+  overflow: auto;
+  padding: 15px;
+  height: 500px;
+  width: auto;
+  border: black 2px dashed;
+  margin: 10px;
+  font-size: 150%;
+}
+#content, #sub {
+  font-size: 150%;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.btn {
+  margin: 5px;
+  cursor: pointer;
+}
+#newMs {
+  margin-left: 2%;
+}
+.allFont {
+  background-color: rgba(255, 220, 200, 0.3);
+  max-width: 700px;
+  width: auto;
+  height: auto;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0px auto;
+  margin-bottom: 40px;
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: 1px 1px 4px rgba(120, 120, 120, 0.6);
+
+}
+
+.owner{
+  background-color: rgba(200, 200, 240, 0.3);
+}
+
+.userFont {
+  display: inline-block;
+  padding: 5px;
+  color: rgba(20, 20, 120, 0.8);
+  background-color: aliceblue;
+  border-radius: 8px 8px 8px 8px;
+  box-shadow: 1px 1px 2px rgba(120, 120, 120, 0.6);
+}
+.contentFont {
+  display: block;
+  width: 85%;
+  word-wrap: break-word;
+  color: rgba(60, 60, 60, 0.8);
+  font-size: 105%;
+  margin-left: 40px;
+  margin-top: 10px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgba(0,240,240,0.8);
+  border-top-color: rgba(0, 0, 0, 0);
+  border-right-color: rgba(0, 0, 0, 0);
+  border-left-color: rgba(0, 0, 0, 0);
+}
+.timeFont {
+  display: inline-block;
+  padding-top: 10px;
+  padding-left: 10px;
+  color: rgba(200, 200, 200, 0.9);
+}
+.msBtn{
+  width: auto;
+  height: 50px;
+}
+
+.editBtn {
+  float: right;
+}
+
+.deleteBtn {
+  float: right;
+}
