@@ -102,13 +102,17 @@ a {
   width: auto;
   height: 50px;
 }
-
 .editBtn {
   float: right;
   font-size: 80%;
 }
-
 .deleteBtn {
   float: right;
   font-size: 80%;
+}
+@media screen and (max-width: 1200px) {
+  input{
+    margin: 0px 20px 0px 40px;
+    max-width: 80%;
+  }
 }
