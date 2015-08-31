@@ -36,7 +36,7 @@ a {
   height: 500px;
   width: auto;
   border: black 2px dashed;
-  margin: 10px;
+  margin: 20px 45px 20px 45px;
   font-size: 150%;
 }
 #content, #sub {
@@ -46,9 +46,10 @@ a {
 .btn {
   margin: 5px;
   cursor: pointer;
+  font-size: 120%;
 }
 #newMs {
-  margin-left: 2%;
+  margin-left: 45px;
 }
 .allFont {
   background-color: rgba(255, 220, 200, 0.3);
@@ -60,9 +61,8 @@ a {
   padding-right: 10px;
   margin: 0px auto;
   margin-bottom: 40px;
-  border-radius: 20px 20px 20px 20px;
+  border-radius: 80px 80px 20px 20px;
   box-shadow: 1px 1px 4px rgba(120, 120, 120, 0.6);
-
 }
 
 .owner{
@@ -105,8 +105,10 @@ a {
 
 .editBtn {
   float: right;
+  font-size: 80%;
 }
 
 .deleteBtn {
   float: right;
+  font-size: 80%;
 }
