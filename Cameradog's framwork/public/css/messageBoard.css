@@ -143,6 +143,9 @@ a {
   float: right;
   font-size: 80%;
 }
+.form-control{
+    font-size: 135%;
+}
 @media screen and (max-width: 1200px) {
   input{
     margin: 0px 20px 0px 40px;
