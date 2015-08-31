@@ -41,3 +41,9 @@ input::-webkit-input-placeholder {
   color: #999;
   font-size: 110%;
 }
+@media screen and (max-width: 1200px) {
+  input{
+    margin: 0px 20px 0px 40px;
+    max-width: 80%;
+  }
+}
